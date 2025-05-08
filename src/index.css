@@ -1,0 +1,49 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+/* img{
+  height: 90px;
+  width: 90px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  box-shadow: 5px 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  display: inline-block;
+  background-color: #f9f9f9;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  height: 200px;
+  width: 200px;
+}
+.card .card-title{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.card .card-text{
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #555;
+} */
+
+.student-card{
+
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  display: inline-block;
+  background-color: #963232;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
